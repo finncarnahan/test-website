@@ -1,0 +1,40 @@
+/*
+cssfontstack.com for web fonts
+*/
+
+p {
+ font-family: Courier;
+}
+
+.pageTitle {
+  color: maroon;
+  font-size: 40px;
+  text-align: center;
+  border: 5px dashed maroon;
+}
+
+.menuHeader {
+  color: white;
+  background-color: maroon;
+  opacity: 0.5;
+  font-size: 20px;
+}
+
+.menuItem {
+
+}
+
+.sectionHeader {
+  font-size: 30px;
+}
+
+.socialIcons {
+  opacity: 0.9;
+}
+
+#indexHeadline {
+  font-family: Verdana;
+  font-size: 50px;
+  text-align: center;
+  opacity: 0.65;
+}
